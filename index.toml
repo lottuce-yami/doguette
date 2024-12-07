@@ -81,6 +81,10 @@ file = "config/yosbr/servers.dat"
 hash = "45ed74e4c2a01c8be4fe906802f07026bcc918dea8c58f9180e3e728f36a8ca7"
 
 [[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
+hash = "30f0d92e5ff1a22db39ee80c2d832498cb3f2d532e4b2408c3dea46102d410ab"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6c83b14211ce8ac10fb01d64b3bf43ad6e30f43482c6adeec6ef881fa796c7b1"
 metafile = true
