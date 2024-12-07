@@ -1,0 +1,13 @@
+name = "MasterCutter"
+filename = "mastercutter-1.4-mc1.21.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DuUMFIfX/versions/KAF8rAl9/mastercutter-1.4-mc1.21.3.jar"
+hash-format = "sha512"
+hash = "edd9f659f66ac3a4d99ed82e9a3dace3b11d60bd1a15cc430c8ae1c1ee5b6bafa40b39e33a67dcae36c0d133f3ada65f8dab2b25e05315a5f3de61ef736b483c"
+
+[update]
+[update.modrinth]
+mod-id = "DuUMFIfX"
+version = "KAF8rAl9"
