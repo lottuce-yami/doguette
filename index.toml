@@ -224,6 +224,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "698d4ef94817abda13fd1b052bec4c5ed51fe7f84fbc218bbe545ed2a23a9622"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "2ef95df1f458f796f5af5f7db3f6a75b2bdace7b4d59bf0e3b5a2c29979a8e02"
 metafile = true
