@@ -13,6 +13,10 @@ file = "config/fallingtree.json"
 hash = "67a4c49f9fe9afca72f788f1518672c8de242fbb66c0a43011e0bc4886d35d21"
 
 [[files]]
+file = "config/infinite-music-options.json"
+hash = "321892b809ae0ad1e80ff4b980957d57df0dd5be9efb4ac5301043f727a3b147"
+
+[[files]]
 file = "config/rightclickharvest.json5"
 hash = "32f9fc3daf3069835c374e5b1b9465bb6d05e006788af8de839e630ff77e20ab"
 
@@ -187,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c79a98c5013dd8f1e219043aef5d77a969f9703455c5d4ca50e366ba943d0295"
+metafile = true
+
+[[files]]
+file = "mods/infinite-music.pw.toml"
+hash = "bcd273c7ca706f8845aacc6b46a12cece99e34190a194b79bb0b82fb9e83d753"
 metafile = true
 
 [[files]]
